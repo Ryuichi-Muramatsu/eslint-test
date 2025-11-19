@@ -7,6 +7,7 @@ const Page: FC = () => {
         <div className="flex flex-col items-center">
           <h1 className="text-2xl font-bold">Hello World</h1>
           <h1 className="text-2xl font-bold">Hello Test</h1>
+          <h1 className="text-2xl font-bold">Github actions Test</h1>
         </div>
       </div>
     </main>
